@@ -6,7 +6,7 @@ https://jun-isaac.github.io/React-Converter/
 
 - [x] React를 활용해서 단위변환기 제작
 - [x] 시간을 분으로, 분을를 시간으로 변환
-- [x] km를 m로, m를 mk로 변환
+- [x] km를 m로, m를 km로 변환
 - [x] 섭씨를 화씨로, 화씨를 섭씨로 변환
 - [x] kg를 파운드로, 파운드를 kg로 변환
 - [ ] css 수정 필요
