@@ -20,6 +20,7 @@ https://jun-isaac.github.io/React-Converter/
 ## 📕 배운 것
 
 * react는 jsx이기 때문에 html에 있는 함수를 사용하면 안된다.
+<br>
 ex) class = className으로 for = htmlFor로 바꿔서 사용해야 함.
 
 <br><br>
